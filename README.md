@@ -1,0 +1,2 @@
+# AssetBundleInfo-Downloader
+バンドリ！ガールズバンドパーティーで使用されているファイル「AssetBundleInfo」に記されているファイルリストを一括でダウンロードする
