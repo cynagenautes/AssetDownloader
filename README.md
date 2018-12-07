@@ -2,7 +2,7 @@
 バンドリ！ガールズバンドパーティーで使用されているファイル
 「AssetBundleInfo」に記されているファイルリストを一括でダウンロードするツールです。
 
-使い方
+使い方<br>
 AssetBundleInfo(私がGoogleDrive/Githubで紹介予定の整形版)を<br>
 AssetBundleInfoDownLoaderと同じ階層において,exeを起動するだけです。<br>
 Assetというフォルダを同階層に作成し,そこにAssetBundleInfoに記されている<br>
@@ -12,7 +12,7 @@ Assetというフォルダを同階層に作成し,そこにAssetBundleInfoに�
 今後の機能追加予定<br>
 ・生のAssetBundleInfoに対しても実行できる<br>
 ・端末から取得したAssetBundleInfoとAWS上のAssetBundleInfoと差分ダウンロードできる<br>
-・進行状況とかわかるようにしたい(なぜかprintされないんだけど・・・)
+・進行状況とかわかるようにしたい(なぜかprintされないんだけど・・・)<br>
 機能も付加予定。(当方プログラム下手なので別ツールに分けるかもしれないとかはある)<br>
 
 version 1.00<br>
