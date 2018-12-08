@@ -5,6 +5,8 @@
 使い方<br>
 AssetBundleInfo(私がGoogleDrive/Githubで紹介予定の整形版)を<br>
 AssetBundleInfoDownLoaderと同じ階層において,exeを起動するだけです。<br>
+(読み込ませたいAssetBundleInfoの名前はちゃんとAssetBundleInfoにしてね)<br>
+
 Assetというフォルダを同階層に作成し,そこにAssetBundleInfoに記されている<br>
 バンドリのデータファイルをダウンロードし,保存します。<br>
 
