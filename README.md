@@ -4,7 +4,7 @@
 
 使い方<br>
 AssetBundleInfo(Masterブランチで提供している整形版)を<br>
-AssetDownLoader.exeと同じ階層において,exeを起動するだけです。<br>
+AssetDownloader.exeと同じ階層において,exeを起動するだけです。<br>
 (読み込ませたいAssetBundleInfoの名前はちゃんとAssetBundleInfoにしてね)<br>
 
 Assetというフォルダを同階層に作成し,そこにAssetBundleInfoに記されている<br>
